@@ -1,1 +1,0 @@
-# derekbeltran.github.io
