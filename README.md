@@ -10,7 +10,7 @@ DEREK BELTRAN
 
 <a href="https://derekbeltran.github.io/20%20de%20abril.html">Menu Responsivo</a>
 
-<a hrf="derekbeltran.github.io/PRACTICA 6.html">Iconos Bootstrap</a>
+<a hrf="derekbeltran.github.io/PRACTICA6.html">Iconos Bootstrap</a>
 
 <a href="derekbeltran.github.io/practica7.html">Carousel</a>
 
