@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Ventanas Modales</title>
+	<link rel="stylesheet" href="css/Bootstrap.css">
+	<script src="jquery-3.3.1.js"></script>
+</head>
+<body>
+	<h1 align="center">Práctica #8-Modales en Bootstrap</h1>
+	<hr>
+	<script src="js/bootstrap.js"></script>
+	<!-- Button trigger modal -->
+<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
+  Informacion
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Lee con atencion</h4>
+      </div>
+      <div class="modal-body">
+        Aqui pones informacion para que la gente lo lea
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+        <button type="button" class="btn btn-primary">Aceptar</button>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
